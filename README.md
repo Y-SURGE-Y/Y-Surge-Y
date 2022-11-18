@@ -1,7 +1,7 @@
 [![MasterHead](https://camo.githubusercontent.com/f1c0fc76d120f760664938edd8e1818f9d407b03f8ce7d306e12094d8853b6a0/687474703a2f2f692e696d6775722e636f6d2f6337476d414a662e706e67)]
 <h1 align="center">Hi 👋, I'm Anand Krishn Mishra</h1>
 <h3 align="center">A passionate Java developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/91/6b/1c/916b1c0b9788ad87b9ccdfc71bbdadf3.gif">
+<img align="middle" alt="Coding" width="400" src="https://i.pinimg.com/originals/91/6b/1c/916b1c0b9788ad87b9ccdfc71bbdadf3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=y-surge-y&label=Profile%20views&color=0e75b6&style=flat" alt="y-surge-y" /> </p>
 
