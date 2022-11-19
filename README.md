@@ -21,6 +21,12 @@
 
 - ⚡ Fun fact **I am Ready to Learn anything**
 
+## Github Stats
+<p align="center">
+<img height="172px" src = "https://github-readme-stats.vercel.app/api?username=Y-SURGE-Y&count_private=true&show_icons=true&theme=dracula" ></img>
+<img height="172px" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Y-SURGE-Y&layout=compact&theme=dracula" ></img>
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/akrishnmishra1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akrishnmishra1" height="30" width="40" /></a>
