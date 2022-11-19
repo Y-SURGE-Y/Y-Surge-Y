@@ -24,7 +24,9 @@
 <img height="172px" src = "https://github-readme-stats.vercel.app/api?username=Y-SURGE-Y&count_private=true&show_icons=true&theme=dracula" ></img>
 <img height="172px" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Y-SURGE-Y&layout=compact&theme=dracula" ></img>
 </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=y-surge-y&" alt="y-surge-y" /></p>
+<p><img align="center">
+<img height="172px" src="https://github-readme-streak-stats.herokuapp.com/?user=y-surge-y&" alt="y-surge-y" ></img>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
