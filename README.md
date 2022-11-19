@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=y-surge-y&label=Profile%20views&color=0e75b6&style=flat" alt="y-surge-y" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=y-surge-y" alt="y-surge-y" /></a> </p>
-
 - 🔭 I’m currently working on **ML Based Cattle Tracking**
 
 - 🌱 I’m currently learning **JavaScript , Flutter , Web Development**
