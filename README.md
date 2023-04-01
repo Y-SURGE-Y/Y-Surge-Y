@@ -12,12 +12,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Y-SURGE-Y&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Y-SURGE-Y&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=AnandKrishnMishra01)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Y-SURGE-Y&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
