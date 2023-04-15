@@ -69,8 +69,5 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Y-SURGE-Y&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
-### 😂 To Make Your Day
-<img src="https://rm.up.railway.app/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Y-SURGE-Y&icon=5&color=1)](https://visitcount.itsvg.in)
