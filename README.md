@@ -1,7 +1,9 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
 </div>  
-
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
+</div>  
 👋 Hey there, I'm Anand Krishn Mishra , a passionate Front End Developer from India currently studying at VIT Bhopal.<br><br>🔭 I’m currently working on Little Lemon (Website) to improve my Web Development/ Front End skills.<br><br>🌱 I’m currently learning Java, JavaScript, React, HTML 5, CSS 3 and excited to explore MongoDB, SQL, Express and Node Js.<br><br>💬 Ask me about Coding and Development or anything related to Java Front End Development. I'm always happy to chat!<br><br>📫 How to reach me: Email- akrishnmishra@gmail.com, Mob No- +91 7905 251 480.<br><br>⚡ Fun fact: I'm an avid Valorant Player and spend most of my free time practicing it. <br><br>🚀 Check out my latest projects on my GitHub profile and feel free to contribute or give feedback! 🙌<br>
 
 
